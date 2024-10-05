@@ -1,0 +1,38 @@
+* {
+    /* background-image: linear-gradient(to right, #ffefba, #ffffff); */
+    font-family: Arial, Helvetica, sans-serif;
+    color: #283747;
+}
+
+img {
+    border-radius: 10px;
+}
+
+.nav {
+    margin: 10px;
+}
+
+#index {
+    background-image: linear-gradient(to right, #f5f7ed, #beb6b6);
+    position: relative;
+    width: 100%;
+}
+
+#lasagna {
+    background-image: linear-gradient(to right, #D1A39B, #FFE7CC);
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+
+#peanutbutter {
+    background-image: linear-gradient(to right, #CFA686, #FDF4CB);
+    position: relative;
+    width: 100%;
+}
+
+#horchata {
+    background-image: linear-gradient(to right, #FFF0D7, #E0F1FF);
+    position: relative;
+    width: 100%;
+}
